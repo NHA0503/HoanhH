@@ -9,7 +9,7 @@ const data = [
         song: 'I Love You Baby ',
         singer: 'Frank Sinatra',
         avatar: './images/02.jpg',
-        mp3: './music/02.mp3'
+        mp3: './music/02_1.mp3'
     },
     {
         song: 'One Last Time',
